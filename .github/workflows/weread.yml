@@ -6,7 +6,6 @@ on:
     - cron: "0 0 * * *"
     - cron: "12 0 * * *"
     - cron: "18 0 * * *"
-    - cron: "22 30 * * *" 
 jobs:
   sync:
     name: Sync
